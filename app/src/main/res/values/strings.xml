@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="quiz_app">Quiz App</string>
+    <string name="ready_for_the_challenge">Ready for the Challenge?</string>
+    <string name="next">Next</string>
+    <string name="correct">Correct</string>
+    <string name="result">Result</string>
+    <string name="your_score_is_15_20">Your Score is : 15/20</string>
+    <string name="back">Back</string>
+</resources>
